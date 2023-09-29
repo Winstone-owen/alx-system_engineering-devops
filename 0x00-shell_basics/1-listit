@@ -1,2 +1,2 @@
 #!/bin/bash
-./list_contents.sh
+./1-listit
