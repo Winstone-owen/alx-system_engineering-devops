@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod +x listit.sh
+ls -la ..
